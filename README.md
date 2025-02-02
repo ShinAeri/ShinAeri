@@ -1,7 +1,8 @@
 ## Hi there 👋
 <details>
-  <summary> 사용 가능 언어
-  </summary>
+<summary> 
+  사용 가능 언어
+</summary>
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![js](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
